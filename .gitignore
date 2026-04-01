@@ -1,0 +1,13 @@
+.vs/
+Build/
+publish/
+install-backups/
+
+**/bin/
+**/obj/
+
+*.user
+*.suo
+*.pdb
+DumpStack.log.tmp
+preview-launcher-render.png
